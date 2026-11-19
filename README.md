@@ -8,7 +8,7 @@ Python data cleaning + VADER sentiment analysis + interactive Tableau dashboard 
 
 📊 [View E-Commerce Sentiment Dashboard on Tableau Public](https://public.tableau.com/app/profile/teodora.maksimovic/viz/E-CommerceCustomerReviewsSentimentAnalysis/E-CommerceSentimentDashboar)
 
-![E-Commerce Sentiment Dashboard](<images/E-Commerce Sentiment Dashboard.png>)
+![E-Commerce Sentiment Dashboard](<images/E-Commerce Sentiment Dashboar.png>)
 
 > The screenshot is static. Open the Tableau Public link to explore the interactive dashboard and filters.
 
