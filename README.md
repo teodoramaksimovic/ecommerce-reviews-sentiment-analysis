@@ -40,7 +40,7 @@ Python data cleaning + VADER sentiment analysis + interactive Tableau dashboard 
 
 ## Original Data Source
 
-[Women's Clothing E-Commerce Reviews — Kaggle](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews)
+[Kaggle: Women's Clothing E-Commerce Reviews](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews)
 
 ## Tools
 
